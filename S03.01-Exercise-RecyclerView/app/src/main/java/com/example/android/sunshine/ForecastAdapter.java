@@ -47,8 +47,3 @@ public class ForecastAdapter extends RecyclerView.Adapter<ForecastAdapter.Foreca
     }
 }
 
-// Within ForecastAdapter.java /////////////////////////////////////////////////////////////////
-
-
-// TODO (47) Create the default constructor (we will pass in parameters in a later lesson)
-
